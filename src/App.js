@@ -1,4 +1,4 @@
-import { FilterPanel } from 'features/filter/FilterPanels';
+import { FilterPanel } from 'features/filters/FilterPanels';
 import { JobList } from 'features/positions/JobList';
 import { TheHeader } from 'components/TheHeader';
 

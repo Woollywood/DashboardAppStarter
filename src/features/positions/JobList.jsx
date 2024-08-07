@@ -1,6 +1,6 @@
 import { useDispatch } from 'react-redux';
 import { JobPosition } from './JobPosition';
-import { add } from '../filter/slice';
+import { add } from '../filters/slice';
 import { usePositions, useFetchPositions } from './hooks';
 
 const JobList = () => {
